@@ -1,0 +1,26 @@
+- name: Logan Bailey
+  url: https://themeix.com
+  designation: Solidity Developer
+  image_url: /assets/images/team-img.jpg
+  behance_url: https://behance.com
+  twitter_url: https://twitter.com
+  instagram_url: https://instagram.com/
+  linkedin_url: https://facebook.com/
+
+- name: Zachary Silverstein
+  url: https://themeix.com
+  designation: Lead Developer
+  image_url: /assets/images/team-img2.jpg
+  behance_url: https://behance.com
+  twitter_url: https://twitter.com
+  instagram_url: https://instagram.com/
+  linkedin_url: https://facebook.com/
+
+- name: Joe Average
+  url: https://themeix.com
+  designation: Front End Developer
+  image_url: /assets/images/team-img3.jpg
+  behance_url: https://behance.com
+  twitter_url: https://twitter.com
+  instagram_url: https://instagram.com/
+  linkedin_url: https://facebook.com/

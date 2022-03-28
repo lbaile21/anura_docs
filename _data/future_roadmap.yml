@@ -1,0 +1,15 @@
+- name: Anura Bridge Protocol Release
+  date: Q2 2022
+  description: The launch of our Briding Protocol allowing users to bridge value across EVM's. 
+  
+- name: Stable Frog Protocol
+  date: Q2 2022
+  description: Yeild Bearing stable coin release. Allowing users to generate yeild.
+  
+- name: Anura Pinning Service 
+  date: Q3 2022
+  description: Launch of protocol with open IPFS pinning API service. 
+  
+- name: Anura Messaging
+  date: Q3 2022
+  description: Roll out of encrypted messaging protocol utilizing ERC1155 tokens.

@@ -1,0 +1,24 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: Support
+  url: /pages/support
+- text: Blog
+  url: /blog
+  submenu:
+  - text: Education
+    url: /tag/education
+- text: Docs
+  url: /explore-topics
+  submenu:
+  - text: Anura Bridging
+    url: /docs/file-structure/
+  - text: Anura Pinning
+    url: /docs/cloud-flare/
+  - text: Anura Messaging
+    url: /docs/client-editable-jekyll-sites/
+  - text: Stable Frog
+    url: /docs/cloud-flare/
+- text: Contact
+  url: /pages/contact
